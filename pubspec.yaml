@@ -1,0 +1,30 @@
+name: nested_navigation
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+
+  flutter:
+    sdk: flutter
+
+  stacked: ^1.9.7
+
+  stacked_services: ^0.7.3
+
+dev_dependencies:
+  build_runner:
+
+  flutter_test:
+    sdk: flutter
+
+  stacked_generator: ^0.2.6
+
+flutter:
+  uses-material-design: true
